@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import joblib
 import plotly.express as px
+from streamlit_autorefresh import st_autorefresh
 from tensorflow.keras.models import load_model
 
 # ==========================
