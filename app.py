@@ -11,12 +11,12 @@ from tensorflow.keras.models import load_model
 # ==========================
 
 st.set_page_config(
-    page_title="Smart Energy Audit",
+    page_title="prediksi-konsumsi-listrik",
     layout="wide"
 )
 
-st.title("Smart Energy Audit")
-st.write("Forecasting Konsumsi Daya Menggunakan Random Forest dan LSTM")
+st.title("prediksi-konsumsi-listrik")
+
 
 
 # Refresh otomatis setiap 60 detik
