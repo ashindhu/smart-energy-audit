@@ -169,10 +169,13 @@ python -m streamlit run app.py
 
 ---
 
-## Demo Aplikasi
+## Demo Aplikasi dan link youtube
 
+streamlit
 [https://smart-energy-audit-ashindhu.streamlit.app/](https://prediksi-konsumsi-listrik-ml.streamlit.app/)
 
+youtube
+https://youtu.be/KzW0LZl_ERY
 ---
 
 ## Mata Kuliah
