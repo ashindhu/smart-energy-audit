@@ -18,6 +18,13 @@ st.set_page_config(
 st.title("Smart Energy Audit")
 st.write("Forecasting Konsumsi Daya Menggunakan Random Forest dan LSTM")
 
+
+# Refresh otomatis setiap 60 detik
+st_autorefresh(
+    interval=60000,
+    key="refresh"
+)
+
 # ==========================
 # THINGSPEAK
 # ==========================
