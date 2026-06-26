@@ -130,7 +130,7 @@ st.subheader("Informasi Data")
 
 st.write(f"Channel ID : {CHANNEL_ID}")
 
-st.write(f"Jumlah Data Per Jam : {len(hourly)}")
+#st.write(f"Jumlah Data Per Jam : {len(hourly)}")
 
 st.write(
     "Update Terakhir : "
